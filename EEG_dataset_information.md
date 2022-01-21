@@ -47,7 +47,7 @@ Paper: [A multimodal dataset for authoring and editing multimedia content: The M
 Access: [Data Download](http://dreamsessions.org/101egg.html)
 
 ### 9. Temple University Hospital Repository
-12,000 patients 16-channel EEG EDF files
+12,000 patients 16-channel EEG EDF files \
 Access: [Data Download](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)
 
 ## [OpenNeuro database](https://openneuro.org/)
