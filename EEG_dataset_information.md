@@ -56,7 +56,7 @@ Paper: [The Temple University Hospital EEG Data Corpus](https://www.ncbi.nlm.nih
 Dataset 1: 23 subjects, HD-EEG system (EGI, Electrical Geodesic Inc., 256 electrodes)\
 Access: [Data Download](https://openneuro.org/datasets/ds003420/versions/1.0.2)\
 Task: naming and spelling the names of visually presented objects\
-Dataset 2: 20 subjects, HD-EEG system (EGI, Electrical Geodesic Inc., 256 electrodes)\ 
+Dataset 2: 20 subjects, HD-EEG system (EGI, Electrical Geodesic Inc., 256 electrodes) \
 Access: [Data Download](https://openneuro.org/datasets/ds003421/versions/1.0.2)\
 Task: resting state, visual naming, auditory naming and working memory
 
