@@ -48,7 +48,7 @@ Access: [Data Download](http://dreamsessions.org/101egg.html)
 
 ### 9. Temple University Hospital Repository
 12,000 patients 16-channel EEG EDF files \
-Access: [Data Download](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)
+Access: [Data Download](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)\
 Paper: [The Temple University Hospital EEG Data Corpus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4865520/)
 
 ## [OpenNeuro database](https://openneuro.org/)
